@@ -2,7 +2,9 @@
 
 ## PM Accelerator Mission
 
-> *[Paste the current PM Accelerator mission statement here, copied verbatim from their official LinkedIn page (linkedin.com/company/product-manager-accelerator) or website — the assessment asks you to source this yourself so it's accurate and current.]*
+The Product Manager Accelerator Program is designed to support PM professionals through every stage of their careers. From students looking for entry-level jobs to Directors looking to take on a leadership role, our program has helped over hundreds of students fulfill their career aspirations.
+
+Our Product Manager Accelerator community are ambitious and committed. Through our program they have learnt, honed and developed new PM and leadership skills, giving them a strong foundation for their future endeavors.https://www.linkedin.com/school/pmaccelerator
 
 ## Project Overview
 
@@ -99,4 +101,4 @@ Four models built on the same cleaned daily series (2026-08-17 excluded): Linear
 
 ## Author
 
-Joseph — [add contact/LinkedIn if you want it here]
+Ayoola Balogun — (https://www.linkedin.com/in/ayoola-splashtech/)
